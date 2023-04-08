@@ -1,0 +1,12 @@
+package veera.coding.single.inheritenance;
+
+public class Mobile extends Electronics{
+	
+	String name="mobile electronics";
+	
+	public void printMobile() {
+		System.out.println("mobile");
+	}
+	
+
+}
